@@ -10,10 +10,10 @@ public class If_Statement_ToFindEvenNumber {
 	  int a = sc.nextInt();
 	  
 		if(a%2 == 0) {
-			System.out.println("A is an even number");
+			System.out.println(a +" is an even number");
 			}
 		else {
-			System.out.println("A is not an even number");
+			System.out.println(a +" is not an even number");
 		}
 		
 	}
